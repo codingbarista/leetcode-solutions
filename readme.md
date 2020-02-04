@@ -1,0 +1,1 @@
+# Welcome to Coding Barista's Readable Javascript Solutions
