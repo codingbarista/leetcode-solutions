@@ -7,5 +7,5 @@ In a interview setting, one should be able to write a clean code with good style
 Disclaimer: my solutions aren't fastest solutions. Sometimes they will be and sometimes not. However, my solutions will be easy to read and easy to understand.
 
 ## Social
-[Youtube](https://www.youtube.com/channel/UC9wR_JP97igzTOr7XUSQEGA)
-[Leetcode](https://leetcode.com/codingbarista/)
+- [Youtube](https://www.youtube.com/channel/UC9wR_JP97igzTOr7XUSQEGA)
+- [Leetcode](https://leetcode.com/codingbarista/)
